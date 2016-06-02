@@ -1,0 +1,14 @@
+Iniciar um projeto
+Você encontrará todos os projetos que você está trabalhando listados na barra lateral. Se você está começando um novo projeto, utilize o repositório de menu drop-down para criar um novo repositório ou clonar um já existente diretamente do GitHub.com.
+Branch off
+Branches são essenciais para propor mudanças e revisão de código no GitHub e eles estão sempre disponíveis no canto superior esquerdo da janela de repositório. Basta selecionar o ramo atual para alternar ramos ou criar um novo.
+Criar o commit perfeito
+Veja uma comparação de suas alterações não confirmadas, e formam a commit perfeita ao selecionar os arquivos, ou até mesmo as linhas-que específicas compõem uma mudança. Digite o resumo e uma descrição, em seguida commit.
+Veja seu histórico
+Visualize as alterações e commit no gráfico de comparação. Você pode selecionar commits no gráfico para navegar pelo histórico de suas filiais locais.
+Criar um pedido de pull
+Quando estiver satisfeito com os seus commits, você pode abrir uma solicitação de recebimento para análise e discussão sem sair do GitHub desktop ou tocar na linha de comando.
+Merge e implantar
+No Browser os commits são em branches locais e remotos de forma rápida e clara. Você também pode mesclar seu código para o branch master para implantação desde o app.
+
+https://desktop.github.com/
